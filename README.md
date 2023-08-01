@@ -5,10 +5,6 @@
 
 This repository contains an animated MacBook landing page, inspired by the Apple website design. The webpage showcases a visually stunning animation effect on the MacBook text, giving it a vibrant rainbow color scheme. It also features a responsive video background and a sleek header for a polished user experience.
 
-### Demo
-
-You can see the live demo of the project here: [Live Demo](https://your-live-demo-url.com](https://puneethkotha.github.io/Macbook-Homepage-Demo- ))
-
 ## Getting Started
 
 ### Prerequisites
