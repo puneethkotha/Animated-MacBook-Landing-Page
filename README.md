@@ -53,6 +53,10 @@ python -m http.server
 You can easily customize the webpage to suit your preferences. Some areas you may wish to modify include:
 
 - **Background Video:** Replace `video.mp4` with your desired video file for the background.
+  
+https://github.com/puneethkotha/Animated-MacBook-Landing-Page/assets/85823685/e64ed670-3518-4de0-94e3-ac986846afa1
+
+
 
 - **Header Navigation:** Modify the navigation links in the header to point to different sections or URLs.
 
