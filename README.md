@@ -1,5 +1,6 @@
 # Animated MacBook Landing Page
 
+![macbook page](https://github.com/puneethkotha/Animated-MacBook-Landing-Page/assets/85823685/1b6dce42-061f-4ba1-934c-f91366eb1dd8)
 
 ## Overview
 
