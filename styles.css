@@ -73,7 +73,6 @@ header:hover {
   transition: background-color 0.7s;
 }
 .rainbow-text {
-  /* Create a conic gradient. */
   /* Double percentages to avoid blur (#000 10%, #fff 10%, #fff 20%, ...). */
   background: #ca4246;
   background-color: #ca4246;
